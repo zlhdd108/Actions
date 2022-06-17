@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env /usr/bin/python2
 #coding=utf-8
 #  
 # Generate a list of dnsmasq rules with ipset for gfwlist

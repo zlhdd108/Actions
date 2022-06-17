@@ -1,4 +1,4 @@
-#!/usr/bin/env python  
+#!/usr/bin/env python2  
 #coding=utf-8
 #  
 # Generate a list of dnsmasq rules with ipset for gfwlist
@@ -7,7 +7,7 @@
 # Ref https://code.google.com/p/autoproxy-gfwlist/wiki/Rules    
  
 import sys
-import urllib.request
+import urllib2
 import re
 import os
 import datetime

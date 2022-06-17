@@ -27,11 +27,6 @@ jobs:
           cd fancyss_rules/auto_update
           bash update_rules.sh
       
-      - name: Run update rules
-        run: |
-          cd fancyss_3.0_rules/rules/auto_update
-          bash update_rules.sh
-
       - name: Commit to repo
         if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'
         run: |

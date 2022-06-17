@@ -29,7 +29,7 @@ jobs:
         run: |
           sudo apt-get install moreutils jq
           cd fancyss_3.0_rules/rules/auto_update
-          bash update_rules.sh
+          python fwlist.py
           
       - name: Commit to repo
         if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'

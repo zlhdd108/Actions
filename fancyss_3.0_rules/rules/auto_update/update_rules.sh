@@ -62,10 +62,10 @@ get_chnroute(){
 
 	# 1. download
 	# source-1：ipip, 20220604: total 6182 subnets, 13240665434 unique IPs
-	wget https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset -qO ${CURR_PATH}/chnroute_tmp.txt
+	# wget https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset -qO ${CURR_PATH}/chnroute_tmp.txt
 
 	# source-2：misakaio, 20220604: total 3403 subnets, 298382954 unique IPs
-	# wget https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt -qO ${CURR_PATH}/chnroute_tmp.txt
+	wget https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt -qO ${CURR_PATH}/chnroute_tmp.txt
 
 	# source-3: mayaxcn, 20220604: total 8625 subnets, 343364510 unique IPs
 	# wget https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt -qO ${CURR_PATH}/chnroute_tmp.txt

@@ -21,9 +21,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '2.7'
       
       - name: Run update rules
         run: |

@@ -24,7 +24,7 @@ jobs:
       
       - name: Run update rules
         run: |
-          sudo apt-get install moreutils python-is-python2
+          sudo apt-get install moreutils python2 jq
           cd fancyss_3.0_rules/rules/auto_update
           bash update_rules.sh
           

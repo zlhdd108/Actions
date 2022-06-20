@@ -6,7 +6,7 @@ get_gfwlist(){
 	# gfwlist.conf
 
 	# 1. download
-	python3 fwlist.py gfwlist_download.conf >/dev/null 2>&1
+	python2 fwlist.py gfwlist_download.conf >/dev/null 2>&1
 	if [ ! -f "gfwlist_download.conf" ]; then
 		echo "gfwlist download faild!"
 		exit 1

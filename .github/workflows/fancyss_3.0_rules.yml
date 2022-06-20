@@ -29,7 +29,7 @@ jobs:
           bash update_rules.sh
           
       - name: Commit to repo
-        if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'
+
         run: |
           cd $GITHUB_WORKSPACE
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

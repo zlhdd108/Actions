@@ -14,9 +14,9 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2022-08-14 03:54",
-    "md5": "99ac6abecff47f8c5323fbbbea2fe8f3",
-    "count": "65738"
+    "date": "2022-08-16 03:54",
+    "md5": "412c1813145e09e1ed1946ea5f9feeee",
+    "count": "65681"
   },
   "apple_china": {
     "name": "apple_china.txt",
@@ -32,8 +32,8 @@
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2022-08-03 03:54",
-    "md5": "61e6cf4872a395dd596bb77e9109e1cd",
+    "date": "2022-08-16 03:54",
+    "md5": "184940de55be964c8d6b814b9aedb07c",
     "count": "72"
   }
 }

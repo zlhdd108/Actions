@@ -14,15 +14,15 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2022-09-10 03:54",
-    "md5": "2638b82c69fd4d8dcf433cd9636937ec",
-    "count": "65449"
+    "date": "2022-09-11 03:54",
+    "md5": "d3188c6f1b175854d6821ee1f5705911",
+    "count": "65458"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2022-08-29 03:54",
-    "md5": "8bf15cd5d4706343e50a9169175caee3",
-    "count": "131"
+    "date": "2022-09-11 03:54",
+    "md5": "5753eca49107f78bba59eb8d4e026a01",
+    "count": "133"
   },
   "google_china": {
     "name": "google_china.txt",

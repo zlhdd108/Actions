@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2022-09-25 03:54",
-    "md5": "ed4b545f9df3b759ee02b6256719357b",
-    "count": "5598"
+    "date": "2022-10-01 03:54",
+    "md5": "b9cc1a9ebb371035128926ad409381bb",
+    "count": "5599"
   },
   "chnroute": {
     "name": "chnroute.txt",
@@ -14,21 +14,21 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2022-09-30 03:54",
-    "md5": "c53cf8811ad2c8c84d241681cb9e5bbe",
-    "count": "65395"
+    "date": "2022-10-01 03:54",
+    "md5": "be04434bb136e757982f2f0411492bc4",
+    "count": "65408"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2022-09-23 03:54",
-    "md5": "0aae74e28f53365385b8aa515fca3834",
-    "count": "135"
+    "date": "2022-10-01 03:54",
+    "md5": "312b1859e818ce2bc95d2a2a0e9059c3",
+    "count": "134"
   },
   "google_china": {
     "name": "google_china.txt",
-    "date": "2022-09-30 03:54",
-    "md5": "347516c2ba8a824ba83d3dec42b8ffe2",
-    "count": "70"
+    "date": "2022-10-01 03:54",
+    "md5": "c9b7afbd6200e36b41f7f228b324b51a",
+    "count": "48"
   },
   "cdn_test": {
     "name": "cdn_test.txt",

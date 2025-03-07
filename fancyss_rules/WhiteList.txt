@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2025-03-06
+## Last update: 2025-03-07
 
 .*\b0\.zone
 .*\b00\.net
@@ -12547,6 +12547,7 @@
 .*\bbcjkcloud\.com
 .*\bbcjp\.net
 .*\bbcjy6\.com
+.*\bbclcraft\.com
 .*\bbcmcdn\.com
 .*\bbcmonomial\.xyz
 .*\bbcpcn\.com
@@ -20166,6 +20167,7 @@
 .*\bcnxclm\.com
 .*\bcnxct\.com
 .*\bcnxds\.com
+.*\bcnxfans\.com
 .*\bcnxhacker\.com
 .*\bcnxiangyan\.com
 .*\bcnxiantao\.com
@@ -21962,7 +21964,6 @@
 .*\bdabaoku\.com
 .*\bdabaqian\.com
 .*\bdabeiduo\.com
-.*\bdabiaogeziyuan\.com
 .*\bdabiaoji\.info
 .*\bdabiaojituan\.com
 .*\bdabieshu\.com
@@ -34519,7 +34520,6 @@
 .*\bgxxydhb\.com
 .*\bgxxyh\.net
 .*\bgxxyhwhcb\.com
-.*\bgxxyny\.com
 .*\bgxxyrbc\.com
 .*\bgxxyybc\.com
 .*\bgxxyydl\.com
@@ -48154,7 +48154,6 @@
 .*\bkr\.com
 .*\bkr126\.com
 .*\bkrahag\.com
-.*\bkrbattery\.com
 .*\bkrbk\.com
 .*\bkrd168\.com
 .*\bkrdrama\.com
@@ -53480,6 +53479,7 @@
 .*\bmc7pcz7\.com
 .*\bmc91\.com
 .*\bmcake\.com
+.*\bmcbbs\.co
 .*\bmcbbs\.net
 .*\bmcbeam\.pro
 .*\bmcc460\.pub\.3gppnetwork\.org
@@ -53534,6 +53534,7 @@
 .*\bmcyhfl\.com
 .*\bmcypls\.com
 .*\bmczhihui\.com
+.*\bmczwlt\.net
 .*\bmczyz\.com
 .*\bmd-hmjt\.com
 .*\bmd-pms\.com
@@ -53987,7 +53988,6 @@
 .*\bmesdk\.com
 .*\bmeshiot\.com
 .*\bmesince\.com
-.*\bmesjia\.com
 .*\bmesowe\.com
 .*\bmesresearch\.com
 .*\bmessecloud\.com
@@ -54479,6 +54479,7 @@
 .*\bminecdn\.com
 .*\bminecraft\.kim
 .*\bminecraftxz\.com
+.*\bminecraftzw\.com
 .*\bminegoods\.com
 .*\bmineplugin\.org
 .*\bmineraltown\.net
@@ -55651,6 +55652,7 @@
 .*\bmuguang\.me
 .*\bmuguayuan\.com
 .*\bmuhai\.net
+.*\bmuhan\.co
 .*\bmuhan\.ltd
 .*\bmuhangkeji\.com
 .*\bmuhoujiemi\.com
@@ -63686,7 +63688,6 @@
 .*\brakinda-aidc\.com
 .*\brakinda-xm\.com
 .*\brakutabichina\.com
-.*\bralf\.ren
 .*\bramadaplaza-ovwh\.com
 .*\bramboplay\.com
 .*\bramostear\.com
@@ -77588,9 +77589,9 @@
 .*\bwechatify\.net
 .*\bwechatlegal\.net
 .*\bwechatpay-global\.com
-.*\bwechatpay\.com
 .*\bwechatpay\.com\.hk
 .*\bwechatpay\.com\.my
+.*\bwechatpay\.com
 .*\bweclassroom\.com
 .*\bwecloudx\.com
 .*\bwecom\.work
@@ -79573,7 +79574,6 @@
 .*\bwskwai\.com
 .*\bwslivehls\.com
 .*\bwsljf\.xyz
-.*\bwsloan\.com
 .*\bwsonh\.com
 .*\bwsound\.cc
 .*\bwsoversea\.info
@@ -91109,7 +91109,6 @@
 .*\bzlbaba\.com
 .*\bzlbagx\.com
 .*\bzlca\.org
-.*\bzlcds\.com
 .*\bzlcool\.com
 .*\bzldq\.org
 .*\bzle\.com

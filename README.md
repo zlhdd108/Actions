@@ -8,7 +8,7 @@
 ## 更新与兼容性
 
 - 2026/01/29：支持 3.3.9 及以上版本。
-- 2022/09/24：支持 [3.0](https://github.com/hq450/fancyss)；旧版本规则仍在旧分支保留更新（见 https://github.com/zlhdd108/Actions/tree/master）。
+- 2022/09/24：支持 [3.0](https://github.com/hq450/fancyss)；旧版本规则仍在旧分支保留更新（见 https://github.com/zlhdd108/Actions/tree/master ）。
 
 ## 更新频率
 
@@ -46,4 +46,5 @@ jsDelivr 可能存在最长 24 小时缓存，因此规则更新会有延迟。
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zlhdd108/Actions&type=Date)](https://star-history.com/#zlhdd108/Actions&Date)
+
 
